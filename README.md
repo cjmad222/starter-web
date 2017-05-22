@@ -13,3 +13,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 
 Deployment can be on any web server
+
+###Copyright
+
+2017 Git Training
