@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Madden cj_madden202@hotmail.com
 
 # THANKS
 
