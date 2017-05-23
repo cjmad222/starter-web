@@ -3,6 +3,8 @@
 This is a simple website project for shwoing how to use Git and GitHub together. Adding a line for rebasing example.
 Adding another line from myfeature too
 
+Updating after emergency fix on Stash
+
 ##Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project
